@@ -1,0 +1,2 @@
+# Polynomials
+$a \mod n = a-k\times n$, hence $a \mod n_1-a \mod n_2 = a-k\times n_1-a+k\times n_2$. By the following theorem: `A Linear Diophantine equation of the form ax+by=c has a solution (where x and y are integers) if and only if c is a multiple of the greatest common divisor of a and b.`, $a \mod n1-a \mod n2 | \gcd(n1,n2)$. Find 2 polynomials with $polynomial GCD | x-1$, then factor n using Pollard's p-1 factorisation.
