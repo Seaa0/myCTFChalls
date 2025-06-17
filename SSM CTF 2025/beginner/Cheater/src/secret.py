@@ -1,0 +1,1 @@
+flag = b'SSMCTF{ch347er_bu7t3r}'
