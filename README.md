@@ -25,3 +25,4 @@ This CTF was organised by the Singapore Students Merger CTF Team.
 | [ECSSP](<SSM CTF 2025/Crypto/ECSSP>)| Crypto  | Meet-in-the-Middle Algorithm, Elliptic Curves | Medium |
 | [Cheater](<SSM CTF 2025/Beginner/Cheater>)| Crypto (Beginner) | RSA, GCD | Medium |
 | [ryuuseigun](<SSM CTF 2025/Beginner/ryuuseigun>)  | Crypto (Beginner) | Sagemath Installation, Elliptic Curves | Medium |
+| [Silence](<SSM CTF 2025/Misc/Silence>)  | Misc | Side Channel (Timing) Pyjail | Medium |
